@@ -1,0 +1,59 @@
+.navbar {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.app-badge {
+  width: 10rem;
+}
+
+.phone {
+  width: 16.5rem;
+  height: 33.5rem;
+  position: relative;
+}
+
+.circle {
+  background: linear-gradient(45deg, #2937f0, #9f1ae2);
+  width: 25rem;
+  height: 25rem;
+  top: 4rem;
+  right: -4rem;
+}
+
+.shape1 {
+  background-color: rgb(41, 55, 240);
+  width: 0.75rem;
+  height: 0.75rem;
+  top: 4rem;
+  right: -6rem;
+}
+
+.shape2 {
+  fill: #2937f0;
+  width: 1rem;
+  height: 1rem;
+  bottom: 8rem;
+  left: -8rem;
+  transform: rotate(-10deg);
+}
+
+.section1 {
+  background: linear-gradient(45deg, #2937f0, #9f1ae2);
+}
+
+.features .circle {
+  width: 22rem;
+  height: 22rem;
+  top: 5rem;
+  right: 1rem;
+}
+
+.features .shape2 {
+  top: 5rem;
+  right: 8rem;
+}
+
+.features .shape1 {
+  bottom: 5rem;
+  left: 5rem;
+}
