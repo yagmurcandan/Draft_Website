@@ -12,6 +12,10 @@ body {
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
+.logo {
+  max-width: 3rem;
+}
+
 .navbar-toggler {
   font-size: 1rem;
   padding: 0.75rem 1rem;
@@ -28,7 +32,7 @@ body {
 }
 
 .circle {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2);
+  background: linear-gradient(45deg, #307ef8, #f6c2d6);
   width: 25rem;
   height: 25rem;
   top: 4rem;
@@ -36,15 +40,15 @@ body {
 }
 
 .shape1 {
-  background-color: rgb(41, 55, 240);
+  background-color: #307ef8;
   width: 0.75rem;
   height: 0.75rem;
-  top: 4rem;
+  top: 5rem;
   right: -5rem;
 }
 
 .shape2 {
-  fill: #2937f0;
+  fill: #307ef8;
   width: 1rem;
   height: 1rem;
   bottom: 6rem;
@@ -53,7 +57,7 @@ body {
 }
 
 .section1 {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2);
+  background: linear-gradient(45deg, #307ef8, #f6c2d6);
 }
 
 .features .phone {
@@ -64,7 +68,7 @@ body {
 
 .features i {
   font-size: 4rem;
-  background: -webkit-linear-gradient(#2937f0, #9f1ae2);
+  background: -webkit-linear-gradient(#307ef8, #f6c2d6);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -72,7 +76,7 @@ body {
 
 .cta {
   position: relative;
-  background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+  background-image: url(https://falou.com/general-resources/social-media-banner/facebook_meta_banner_space.png);
   background-size: cover;
   background-position: center;
   padding: 15rem 0;
@@ -99,7 +103,7 @@ body {
 
 #download,
 .modal-header {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2);
+  background: linear-gradient(45deg, #307ef8, #f6c2d6);
   color: white;
 }
 
@@ -206,8 +210,8 @@ footer a {
   }
 
   .shape1 {
-    top: 5rem;
-    left: 17rem;
+    top: 4rem;
+    left: 18rem;
   }
 
   .features .circle {
